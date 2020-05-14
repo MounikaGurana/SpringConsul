@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.tcs.eam.MyConfig",
+      "sourceType": "com.tcs.eam.MyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "password",
+      "type": "java.lang.String",
+      "sourceType": "com.tcs.eam.MyConfig"
+    },
+    {
+      "name": "privilege",
+      "type": "java.lang.String",
+      "sourceType": "com.tcs.eam.MyConfig"
+    },
+    {
+      "name": "username",
+      "type": "java.lang.String",
+      "sourceType": "com.tcs.eam.MyConfig"
+    }
+  ],
+  "hints": []
+}
